@@ -1,0 +1,30 @@
+Lam Nguyen
+CPS 222 project 1
+
+files submitted:
+	ReallyLongInt.h
+	ReallyLongInt.cc
+	numberTheory.cc
+	numberTheory.h
+	keygen.cc
+	encrypt.cc
+	decrypt.cc
+	factorial.cc
+	Makefile 
+	cover sheet
+	readme.txt
+
+The project seems to work fine overall, I think.
+Everything compiles.
+
+
+known issues:
+
+factorial needs a main function to run and compile correctly. I don’t know if we should have had a main in it or not.
+
+
+to compile : make all.
+to test: ./ReallyLongInt
+	./keygen
+	./encrypt
+	./decrypt
